@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there, I'm Salva
 
-<!--
-**SalvadorSassatelli/SalvadorSassatelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a freelance frontend developer and web designer.
 
-Here are some ideas to get you started:
+🪛 **My go to tech-stack:**
+- React/NextJS
+- TailwindCSS
+- Figma
+- Adobe 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Connect with me:**
+- Portfolio: COMING SOON
+- Linkedin: https://www.linkedin.com/in/salvador-sassatelli/
+- Instagram: https://www.instagram.com/salva_sassa/
