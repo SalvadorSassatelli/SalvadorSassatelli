@@ -3,6 +3,7 @@
 I am a freelance frontend developer and web designer.
 
 🪛 **My go to tech-stack:**
+- Django
 - React/NextJS
 - TailwindCSS
 - Figma
